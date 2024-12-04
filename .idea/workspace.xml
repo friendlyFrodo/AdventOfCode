@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd2cc4a9-f5bd-404b-bc96-d64bcd3e07d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day_3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_2/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/day2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_2/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +47,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.day2.executor": "Run",
+    "Python.day3.executor": "Run",
+    "Python.day4.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
