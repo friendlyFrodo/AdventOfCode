@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd2cc4a9-f5bd-404b-bc96-d64bcd3e07d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/day3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/day4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/day5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -32,9 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pew8ChTTgnFFbMOZpwSKYuIOg7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,6 +46,7 @@
     "Python.day2.executor": "Run",
     "Python.day3.executor": "Run",
     "Python.day4.executor": "Run",
+    "Python.day5.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
