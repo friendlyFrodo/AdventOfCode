@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd2cc4a9-f5bd-404b-bc96-d64bcd3e07d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/day5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_07/day7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_07/ex.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_07/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_6/day6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_6/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genday24.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -47,11 +52,13 @@
     "Python.day3.executor": "Run",
     "Python.day4.executor": "Run",
     "Python.day5.executor": "Run",
+    "Python.day6.executor": "Debug",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/user/AdventOfCode"
+    "last_opened_file_path": "/Users/user/AdventOfCode",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -89,6 +96,13 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>

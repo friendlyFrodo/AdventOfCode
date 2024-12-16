@@ -4,6 +4,7 @@ from Day_2 import day2
 from Day_3 import day3
 from Day_4 import day4
 from Day_5 import day5
+from Day_6 import day6
 
 # print("Day 1:")
 # day1.solve()
@@ -17,5 +18,9 @@ from Day_5 import day5
 #print("Day 4:")
 #day4.solve()
 
-print("Day 5:")
-day5.solve()
+
+#print("Day 5:")
+#day5.solve()
+
+print("Day 6:")
+day6.solve()
